@@ -1,4 +1,4 @@
-![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
+![ezcv logo](https://raw.githubusercontent.com/SaHaroza014/Setlist_searcher/master/.github/Setlist.jpg)
 
 
 # Setlist_searcher
