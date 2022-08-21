@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "dT-x7DQsZ0yR2GwewRgEcUBvTGiS8zTVEVYE"  # you can get your API_KEY on setlist.fm web page...
+API_KEY =   # you can get your API_KEY on setlist.fm web page...
 
 artist_name = input("Input artist name: ")
 cityName = input("Input city name: ")
