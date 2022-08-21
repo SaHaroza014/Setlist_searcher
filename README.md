@@ -1,7 +1,8 @@
-![ezcv logo](https://raw.githubusercontent.com/SaHaroza014/Setlist_searcher/master/.github/Setlist.jpg)
-
-
 # Setlist_searcher
+
+![setlist logo](/.github/Setlist.jpg)
+
+
 Python project made for quick search of performer's setlist based on performer name, city and year of event.
 
 
